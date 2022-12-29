@@ -12,11 +12,8 @@
 #		  client.           
 #    
 # DATE:           December 6th, 2021
-# DESIGNER:       Lingzhu Yu  A00904631
-#                 Yuheng Song A00971421
 #			
-# PROGRAMMER:     Lingzhu Yu  A00904631
-#                 Yuheng Song A00971421
+# PROGRAMMER:     Hugh Song
 #----------------------------------------------------------------------------------------------
 
 1. Put the source code on the target and client machines and edit the configuration file. 
